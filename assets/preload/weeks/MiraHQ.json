@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Sussus Toogus", "crewmate", [146, 113, 253]],
+		["Lights down", "impostor3", [146, 113, 253]],
+		["Reactor", "impostor3", [146, 113, 253]],
+		["Ejected", "parasite", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "mirahq",
+
+	"storyName": "Mira HQ",
+	"weekBefore": "Polus",
+	"weekName": "Mira HQ",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

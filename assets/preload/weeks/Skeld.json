@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Sussy Bussy", "tomongus", [146, 113, 253]],
+		["Rivals", "tomongus", [146, 113, 253]],
+		["Chewmate", "hamster", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "skeld",
+
+	"storyName": "Skeld",
+	"weekBefore": "MiraHQ",
+	"weekName": "Skeld",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

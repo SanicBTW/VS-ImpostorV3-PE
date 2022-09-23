@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Defeat", "black", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "defeat",
+
+	"storyName": "Defeat",
+	"weekBefore": "Skeld",
+	"weekName": "Defeat",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
